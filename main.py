@@ -8,7 +8,7 @@ fall_speed = 2
 jump_speed = 100
 
 WIN = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
-pygame.display.set_caption("Flappy Bird")
+pygame.display.set_caption("Dino Game")
 WIN.fill(black)
 clock=pygame.time.Clock()
 info_obj = pygame.display.Info()
